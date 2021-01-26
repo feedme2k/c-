@@ -1,0 +1,20 @@
+﻿Build started 25.04.2017 3:23:24.
+     1>Project "C:\Users\User\Desktop\Документы\Lab1_tochki\Lab1 точки\Lab1\Lab1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.DataVisualization.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Form1.cpp
+         Form1.cpp
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(207): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(208): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(209): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(218): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(219): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(220): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(228): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(229): error C2065: 'j' : undeclared identifier
+     1>c:\users\user\desktop\документы\lab1_tochki\lab1 точки\lab1\Form1.h(230): error C2065: 'j' : undeclared identifier
+     1>Form1.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+     1>Done Building Project "C:\Users\User\Desktop\Документы\Lab1_tochki\Lab1 точки\Lab1\Lab1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.76
