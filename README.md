@@ -1,3 +1,3 @@
 # c-
 C++ projects
-CM - some labs numerical methods
+CM - some labs from bachelor
